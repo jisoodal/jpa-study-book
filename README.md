@@ -5,3 +5,5 @@
 강의로 배웠던 내용 + 이해 못했던 부분을 블로그에 정리하는 방식으로 한다 !
 
 [2023/02/11] 1강 - JPA 소개 https://dev-otter.tistory.com/12
+
+[2023/02/13] 2강 - JPA 시작(1) https://dev-otter.tistory.com/13
