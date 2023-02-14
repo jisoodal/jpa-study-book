@@ -7,3 +7,5 @@
 [2023/02/11] 1강 - JPA 소개 https://dev-otter.tistory.com/12
 
 [2023/02/13] 2강 - JPA 시작(1) https://dev-otter.tistory.com/13
+
+[2023/02/14] 2강 - JPA 시작(2) https://dev-otter.tistory.com/14
