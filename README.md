@@ -4,6 +4,9 @@
 소스는 https://github.com/jisoodal/jpa-study-e-learning 을 기반으로 하되,
 강의로 배웠던 내용 + 이해 못했던 부분을 블로그에 정리하는 방식으로 한다 ! :bulb:
 
+## :clock3: 공부 기간 :clock3:
+2023/02/11 ~
+
 ## :star: 정리 내용 :star:
 
 [2023/02/11] 1강 - JPA 소개 https://dev-otter.tistory.com/12
